@@ -1,0 +1,62 @@
+technology.tech.variant;technology;tech.variant
+Bio w CCS, TAX5_begr_betr_rf;Bio w CCS;NA
+Bio w CCS, residue;Bio w CCS;residue
+Bio w CCS, TAX0_begr_betr_ir;Bio w CCS;TAX0_begr_betr_ir
+Bio w CCS, TAX0_begr_betr_rf;Bio w CCS;TAX0_begr_betr_rf
+Bio w CCS, TAX0_betr_rf;Bio w CCS;TAX0_betr_rf
+Bio w CCS, TAX30_begr_betr_ir;Bio w CCS;TAX30_begr_betr_ir
+Bio w CCS, TAX30_begr_betr_rf;Bio w CCS;TAX30_begr_betr_rf
+Bio w CCS, TAX30_betr_rf;Bio w CCS;TAX30_betr_rf
+Bio w CCS, TAX5_begr_betr_ir;Bio w CCS;TAX5_begr_betr_ir
+Bio w CCS, TAX5_begr_betr_rf;Bio w CCS;TAX5_begr_betr_rf
+Bio w CCS, TAX5_betr_rf;Bio w CCS;TAX5_betr_rf
+Bio wo CCS, TAX5_begr_betr_rf;Bio wo CCS;NA
+Bio wo CCS, residue;Bio wo CCS;residue
+Bio wo CCS, TAX0_begr_betr_ir;Bio wo CCS;TAX0_begr_betr_ir
+Bio wo CCS, TAX0_begr_betr_rf;Bio wo CCS;TAX0_begr_betr_rf
+Bio wo CCS, TAX0_betr_rf;Bio wo CCS;TAX0_betr_rf
+Bio wo CCS, TAX30_begr_betr_ir;Bio wo CCS;TAX30_begr_betr_ir
+Bio wo CCS, TAX30_begr_betr_rf;Bio wo CCS;TAX30_begr_betr_rf
+Bio wo CCS, TAX30_betr_rf;Bio wo CCS;TAX30_betr_rf
+Bio wo CCS, TAX5_begr_betr_ir;Bio wo CCS;TAX5_begr_betr_ir
+Bio wo CCS, TAX5_begr_betr_rf;Bio wo CCS;TAX5_begr_betr_rf
+Bio wo CCS, TAX5_betr_rf;Bio wo CCS;TAX5_betr_rf
+Coal w CCS 1;Coal w CCS;1
+Coal w CCS 2;Coal w CCS;2
+Coal w CCS 3;Coal w CCS;3
+Coal w CCS;Coal w CCS;NA
+Coal wo CCS 1;Coal wo CCS;1
+Coal wo CCS 2;Coal wo CCS;2
+Coal wo CCS 3;Coal wo CCS;3
+Coal wo CCS;Coal wo CCS;NA
+CSP 1;CSP;1
+CSP 2;CSP;2
+CSP;CSP;NA
+Gas w CCS 1;Gas w CCS;1
+Gas w CCS;Gas w CCS;NA
+Gas wo CCS 1;Gas wo CCS;1
+Gas wo CCS;Gas wo CCS;NA
+Grid, HVDC;Grid;1
+Grid, HVDC;Grid;NA
+Hydro 1;Hydro;1
+Hydro 2;Hydro;2
+Hydro;Hydro;NA
+Nuclear 1;Nuclear;1
+Nuclear 2;Nuclear;2
+Nuclear;Nuclear;NA
+PV 1;PV;1
+PV 2;PV;2
+PV 3;PV;3
+PV 4;PV;4
+PV 5;PV;5
+PV 6;PV;6
+PV;PV;NA
+Storage, Adiabatic compressed air energy storage;Storage;Adiabatic compressed air energy storage
+Storage, Battery (Li-ion);Storage;Battery (Li-ion)
+Storage, Battery (Li-ion);Storage;NA
+Storage, Pumped hydro storage;Storage;Pumped hydro storage
+Wind, offshore 1;Wind, offshore;1
+Wind, offshore 2;Wind, offshore;2
+Wind, offshore;Wind, offshore;NA
+Wind, onshore;Wind, onshore;1
+Wind, onshore;Wind, onshore;NA

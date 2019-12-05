@@ -1,0 +1,65 @@
+Model;Scenario;Region;Variable;Unit;2010
+NTNU_LCA;Baseline;World;GHG|Storage, Pumped hydro storage|Construction;kg CO2-Eq/GWh;8.80E+05
+NTNU_LCA;Baseline;World;Freshwater ecotoxicity|Storage, Pumped hydro storage|Construction;kg 1,4-DCB-Eq/GWh;3.37E+03
+NTNU_LCA;Baseline;World;Freshwater eutrophication|Storage, Pumped hydro storage|Construction;kg P-Eq/GWh;8.18E+01
+NTNU_LCA;Baseline;World;Human toxicity|Storage, Pumped hydro storage|Construction;kg 1,4-DCB-Eq/GWh;1.10E+05
+NTNU_LCA;Baseline;World;Ionising radiation|Storage, Pumped hydro storage|Construction;kg U235-Eq/GWh;4.69E+01
+NTNU_LCA;Baseline;World;Land occupation|Storage, Pumped hydro storage|Construction;m2a/GWh;4.24E+06
+NTNU_LCA;Baseline;World;Marine eutrophication|Storage, Pumped hydro storage|Construction;kg N-Eq/GWh;3.20E+02
+NTNU_LCA;Baseline;World;Metal depletion|Storage, Pumped hydro storage|Construction;kg Fe-eq/GWh;6.73E+04
+NTNU_LCA;Baseline;World;Terrestrial ecotoxicity|Storage, Pumped hydro storage|Construction;kg 1,4-DCB-Eq/GWh;1.08E+02
+NTNU_LCA;Baseline;World;GHG|Storage, Adiabatic compressed air energy storage|Construction;kg CO2-Eq/GWh;8.69E+04
+NTNU_LCA;Baseline;World;Freshwater ecotoxicity|Storage, Adiabatic compressed air energy storage|Construction;kg 1,4-DCB-Eq/GWh;1.32E+03
+NTNU_LCA;Baseline;World;Freshwater eutrophication|Storage, Adiabatic compressed air energy storage|Construction;kg P-Eq/GWh;3.09E+01
+NTNU_LCA;Baseline;World;Human toxicity|Storage, Adiabatic compressed air energy storage|Construction;kg 1,4-DCB-Eq/GWh;3.70E+04
+NTNU_LCA;Baseline;World;Ionising radiation|Storage, Adiabatic compressed air energy storage|Construction;kg U235-Eq/GWh;1.89E+01
+NTNU_LCA;Baseline;World;Land occupation|Storage, Adiabatic compressed air energy storage|Construction;m2a/GWh;2.86E+03
+NTNU_LCA;Baseline;World;Marine eutrophication|Storage, Adiabatic compressed air energy storage|Construction;kg N-Eq/GWh;1.71E+01
+NTNU_LCA;Baseline;World;Metal depletion|Storage, Adiabatic compressed air energy storage|Construction;kg Fe-eq/GWh;3.43E+04
+NTNU_LCA;Baseline;World;Terrestrial ecotoxicity|Storage, Adiabatic compressed air energy storage|Construction;kg 1,4-DCB-Eq/GWh;3.57E+01
+NTNU_LCA;Baseline;World;GHG|Storage, Battery (Li-ion)|Construction;kg CO2-Eq/GWh;1.33E+07
+NTNU_LCA;Baseline;World;Freshwater ecotoxicity|Storage, Battery (Li-ion)|Construction;kg 1,4-DCB-Eq/GWh;9.45E+05
+NTNU_LCA;Baseline;World;Freshwater eutrophication|Storage, Battery (Li-ion)|Construction;kg P-Eq/GWh;2.85E+04
+NTNU_LCA;Baseline;World;Human toxicity|Storage, Battery (Li-ion)|Construction;kg 1,4-DCB-Eq/GWh;5.77E+07
+NTNU_LCA;Baseline;World;Ionising radiation|Storage, Battery (Li-ion)|Construction;kg U235-Eq/GWh;2.05E+04
+NTNU_LCA;Baseline;World;Land occupation|Storage, Battery (Li-ion)|Construction;m2a/GWh;5.80E+05
+NTNU_LCA;Baseline;World;Marine eutrophication|Storage, Battery (Li-ion)|Construction;kg N-Eq/GWh;2.28E+04
+NTNU_LCA;Baseline;World;Metal depletion|Storage, Battery (Li-ion)|Construction;kg Fe-eq/GWh;1.48E+07
+NTNU_LCA;Baseline;World;Terrestrial ecotoxicity|Storage, Battery (Li-ion)|Construction;kg 1,4-DCB-Eq/GWh;5.10E+03
+NTNU_LCA;Baseline;World;GHG|Storage, Pumped hydro storage|Operation;kg CO2-Eq/GWh;1.64E+05
+NTNU_LCA;Baseline;World;Freshwater ecotoxicity|Storage, Pumped hydro storage|Operation;kg 1,4-DCB-Eq/GWh;1.96E+03
+NTNU_LCA;Baseline;World;Freshwater eutrophication|Storage, Pumped hydro storage|Operation;kg P-Eq/GWh;1.30E+00
+NTNU_LCA;Baseline;World;Human toxicity|Storage, Pumped hydro storage|Operation;kg 1,4-DCB-Eq/GWh;2.78E+04
+NTNU_LCA;Baseline;World;Ionising radiation|Storage, Pumped hydro storage|Operation;kg U235-Eq/GWh;5.98E+02
+NTNU_LCA;Baseline;World;Land occupation|Storage, Pumped hydro storage|Operation;m2a/GWh;6.94E+02
+NTNU_LCA;Baseline;World;Marine eutrophication|Storage, Pumped hydro storage|Operation;kg N-Eq/GWh;4.13E+00
+NTNU_LCA;Baseline;World;Metal depletion|Storage, Pumped hydro storage|Operation;kg Fe-eq/GWh;2.37E+02
+NTNU_LCA;Baseline;World;Terrestrial ecotoxicity|Storage, Pumped hydro storage|Operation;kg 1,4-DCB-Eq/GWh;2.80E+01
+NTNU_LCA;Baseline;World;GHG|Storage, Adiabatic compressed air energy storage|Operation;kg CO2-Eq/GWh;1.45E+05
+NTNU_LCA;Baseline;World;Freshwater ecotoxicity|Storage, Adiabatic compressed air energy storage|Operation;kg 1,4-DCB-Eq/GWh;1.73E+03
+NTNU_LCA;Baseline;World;Freshwater eutrophication|Storage, Adiabatic compressed air energy storage|Operation;kg P-Eq/GWh;1.15E+00
+NTNU_LCA;Baseline;World;Human toxicity|Storage, Adiabatic compressed air energy storage|Operation;kg 1,4-DCB-Eq/GWh;2.46E+04
+NTNU_LCA;Baseline;World;Ionising radiation|Storage, Adiabatic compressed air energy storage|Operation;kg U235-Eq/GWh;5.29E+02
+NTNU_LCA;Baseline;World;Land occupation|Storage, Adiabatic compressed air energy storage|Operation;m2a/GWh;6.13E+02
+NTNU_LCA;Baseline;World;Marine eutrophication|Storage, Adiabatic compressed air energy storage|Operation;kg N-Eq/GWh;3.65E+00
+NTNU_LCA;Baseline;World;Metal depletion|Storage, Adiabatic compressed air energy storage|Operation;kg Fe-eq/GWh;2.09E+02
+NTNU_LCA;Baseline;World;Terrestrial ecotoxicity|Storage, Adiabatic compressed air energy storage|Operation;kg 1,4-DCB-Eq/GWh;2.47E+01
+NTNU_LCA;Baseline;World;GHG|Storage, Battery (Li-ion)|Operation;kg CO2-Eq/GWh;4.23E+04
+NTNU_LCA;Baseline;World;Freshwater ecotoxicity|Storage, Battery (Li-ion)|Operation;kg 1,4-DCB-Eq/GWh;5.06E+02
+NTNU_LCA;Baseline;World;Freshwater eutrophication|Storage, Battery (Li-ion)|Operation;kg P-Eq/GWh;3.35E-01
+NTNU_LCA;Baseline;World;Human toxicity|Storage, Battery (Li-ion)|Operation;kg 1,4-DCB-Eq/GWh;7.19E+03
+NTNU_LCA;Baseline;World;Ionising radiation|Storage, Battery (Li-ion)|Operation;kg U235-Eq/GWh;1.55E+02
+NTNU_LCA;Baseline;World;Land occupation|Storage, Battery (Li-ion)|Operation;m2a/GWh;1.79E+02
+NTNU_LCA;Baseline;World;Marine eutrophication|Storage, Battery (Li-ion)|Operation;kg N-Eq/GWh;1.07E+00
+NTNU_LCA;Baseline;World;Metal depletion|Storage, Battery (Li-ion)|Operation;kg Fe-eq/GWh;6.10E+01
+NTNU_LCA;Baseline;World;Terrestrial ecotoxicity|Storage, Battery (Li-ion)|Operation;kg 1,4-DCB-Eq/GWh;7.23E+00
+NTNU_LCA;Baseline;World;GHG|Grid, HVDC|Construction;kg CO2-Eq/GWkm;9.13E+03
+NTNU_LCA;Baseline;World;Freshwater ecotoxicity|Grid, HVDC|Construction;kg 1,4-DCB-Eq/GWkm;9.27E+02
+NTNU_LCA;Baseline;World;Freshwater eutrophication|Grid, HVDC|Construction;kg P-Eq/GWkm;2.46E+01
+NTNU_LCA;Baseline;World;Human toxicity|Grid, HVDC|Construction;kg 1,4-DCB-Eq/GWkm;4.63E+04
+NTNU_LCA;Baseline;World;Ionising radiation|Grid, HVDC|Construction;kg U235-Eq/GWkm;2.01E+00
+NTNU_LCA;Baseline;World;Land occupation|Grid, HVDC|Operation;m2a/GWkm;2.24E+04
+NTNU_LCA;Baseline;World;Marine eutrophication|Grid, HVDC|Construction;kg N-Eq/GWkm;3.74E+00
+NTNU_LCA;Baseline;World;Metal depletion|Grid, HVDC|Construction;kg Fe-eq/GWkm;2.08E+04
+NTNU_LCA;Baseline;World;Terrestrial ecotoxicity|Grid, HVDC|Construction;kg 1,4-DCB-Eq/GWkm;2.88E+00
+NTNU_LCA;Baseline;World;Land occupation|Grid, HVDC|Operation;m2a/GWkm;2.24E+04
