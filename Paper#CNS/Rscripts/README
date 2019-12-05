@@ -1,0 +1,30 @@
+This directory contains the data and source code used in preparation for the
+paper "Environmental co-benefits and adverse side-effects of alternative power
+sector decarbonization strategies" by Gunnar Luderer et al. published in Nature
+Communications.  https://doi.org/10.1038/s41467-019-13067-8
+
+
+Usage
+-----
+
+The directory is a self-contained R project.  To run it, R should be started in
+an interactive session (so that the file .Rprofile is loaded) and the file
+start_script.R should be executed, using
+
+  source('start_script.r')
+
+It is also possible to run the code from the RStudio IDE, available at
+https://rstudio.com/
+
+
+Copyright Notice
+----------------
+
+Copyright: 2019   Potsdam Institute for Climate Impact Research (PIK)
+
+This work, excluding the work within the 'packrat' directory, is licensed under 
+the Creative Commons Attribution-ShareAlike 4.0 International License. To view 
+a copy of this license, see the LICENSE file or visit 
+http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative 
+Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
